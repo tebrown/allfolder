@@ -5,14 +5,14 @@
     http://pear.php.net/dtd/package-2.0.xsd">
 	<name>allfolder</name>
 	<lead>
-		<name>Myroundcube Dev Team</name>
-		<user>rosali</user>
-		<email>dev-team@myroundcube.com</email>
+		<name>Travis Brown</name>
+		<user>teb</user>
+		<email>teb@jetcom.org</email>
 		<active>yes</active>
-	</lead><date>2013-09-16</date>
+	</lead><date>2013-10-25</date>
 	<version>
-		<release>2.9</release>
-		<api>2.9</api>
+		<release>1.0</release>
+		<api>1.0</api>
 	</version>
 	<stability>
 		<release>stable</release>
